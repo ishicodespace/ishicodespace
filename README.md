@@ -32,8 +32,8 @@ A Computer Science student passionate about Full Stack Development and AI.
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikacodespace&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikacodespace&layout=compact&theme=tokyonight&hide=php" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishicodespace&layout=compact&theme=tokyonight&hide=php" height="160"/>
 </p>
 
 
