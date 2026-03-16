@@ -1,9 +1,6 @@
 <h2> Hi, I'm Ishika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-A Computer Science student passionate about Full Stack Development and AI.
-
----
-<b>Tech I work on :</b>
+<p>A Computer Science student passionate about Full Stack Development and AI.</p>
+<h4><b>Tech I work on :</b></h4>
 <p align="center">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
@@ -20,26 +17,26 @@ A Computer Science student passionate about Full Stack Development and AI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
 </p>
 
 
-
-
-
-
----
-
-### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> My GitHub Stats:
+<!-- ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> My GitHub Stats:-->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishicodespace&layout=compact&theme=tokyonight&hide=php" height="160"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=100&section=header"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=nightowl&hide=issues&count_private=true&include_all_commits=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishicodespace&layout=compact&theme=nightowl&hide=php" height="160"/>
+
 </p>
 
 
