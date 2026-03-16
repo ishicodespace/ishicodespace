@@ -23,17 +23,14 @@
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
 </p>
 
 
 <!-- ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> My GitHub Stats:-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=100&section=header"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=nightowl&hide=issues&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=header"/><img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=nightowl&hide=issues&count_private=true&include_all_commits=true" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishicodespace&layout=compact&theme=nightowl&hide=php" height="160"/>
 
