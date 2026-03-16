@@ -30,7 +30,7 @@
 <!-- ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> My GitHub Stats:-->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=header"/><img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=nightowl&hide=issues&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:151f4a&height=100&section=header"/><img src="https://github-readme-stats.vercel.app/api?username=ishicodespace&show_icons=true&theme=nightowl&hide=issues&count_private=true&include_all_commits=true" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishicodespace&layout=compact&theme=nightowl&hide=php" height="160"/>
 
